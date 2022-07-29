@@ -9,7 +9,8 @@ In this Repositrory i will be commiting my progress what i learn and what i am l
 
 - [Methods](src/methods.java)
 - [Keywords](src/keywords.java)
-- [MethodOverLoading](src/MethodOverLoading.java)
+- [MethodOverLoading](src/MethodOverLoading.java) 
+- [SwitchStatement](src/SwitchStatement.java)
 
 
 
@@ -19,6 +20,7 @@ Here i pick questions to solve
 - [KilometerToMiles](src/JavaProblems/KilometerToMiles.java)
 - [MegaBytesConverter](src/JavaProblems/MegaBytesConverter.java)
 - [EqualSumChecker](src/JavaProblems/EqualSumChecker.java)
+- [SecondsAndMinutes](src/JavaProblems/SecondsAndMinutes.java)
 
 
 
