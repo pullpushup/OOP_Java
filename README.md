@@ -25,6 +25,8 @@ Here i pick questions to solve
 - [EqualSumChecker](src/JavaProblems/EqualSumChecker.java)
 - [SecondsAndMinutes](src/JavaProblems/SecondsAndMinutes.java)
 - [DayOfTheWeek](src/JavaProblems/DayOfTheWeek.java)
+- [Main_Bank](src/JavaProblems/Main_Bank.java)
+- - [Account](src/JavaProblems/Account.java)
 
 
 
