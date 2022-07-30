@@ -14,6 +14,8 @@ In this Repositrory i will be commiting my progress what i learn and what i am l
 - [Classes]()
 - - [Class_01](src/Classes/Class_01.java)
 - [Inheritance](src/Classes/Inheritance.java) 
+- - [Animal](src/Classes/Animal.java)
+- - [Dog](src/Classes/Dog.java)
 
 
 
@@ -28,6 +30,7 @@ Here i pick questions to solve
 - [DayOfTheWeek](src/JavaProblems/DayOfTheWeek.java)
 - [Main_Bank](src/JavaProblems/Main_Bank.java)
 - - [Account](src/JavaProblems/Account.java)
+-  [Calculator](src/JavaProblems/calculator.java)
 
 
 
