@@ -13,6 +13,7 @@ In this Repositrory i will be commiting my progress what i learn and what i am l
 - [SwitchStatement](src/SwitchStatement.java)
 - [Classes]()
 - - [Class_01](src/Classes/Class_01.java)
+- [Inheritance](src/Classes/Inheritance.java) 
 
 
 
