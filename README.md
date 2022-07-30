@@ -11,6 +11,9 @@ In this Repositrory i will be commiting my progress what i learn and what i am l
 - [Keywords](src/keywords.java)
 - [MethodOverLoading](src/MethodOverLoading.java) 
 - [SwitchStatement](src/SwitchStatement.java)
+- [Classes]()
+- - [Class_01](src/Classes/Class_01.java)
+
 
 
 
@@ -21,6 +24,7 @@ Here i pick questions to solve
 - [MegaBytesConverter](src/JavaProblems/MegaBytesConverter.java)
 - [EqualSumChecker](src/JavaProblems/EqualSumChecker.java)
 - [SecondsAndMinutes](src/JavaProblems/SecondsAndMinutes.java)
+- [DayOfTheWeek](src/JavaProblems/DayOfTheWeek.java)
 
 
 
