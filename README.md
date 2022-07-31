@@ -17,6 +17,7 @@ I will be committing my progress to what I learn and what I am learning
 - - [Animal](src/Classes/Animal.java)
 - - [Dog](src/Classes/Dog.java)
 - [Composition](src/OOPPart2/Composition.java)
+- [Encapsulation](src/OOPPart2/Encapsulation.java)
 
 
 
