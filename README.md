@@ -16,6 +16,7 @@ In this Repositrory i will be commiting my progress what i learn and what i am l
 - [Inheritance](src/Classes/Inheritance.java) 
 - - [Animal](src/Classes/Animal.java)
 - - [Dog](src/Classes/Dog.java)
+- [Composition](src/OOPPart2/Composition.java)
 
 
 
