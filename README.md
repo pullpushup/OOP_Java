@@ -30,7 +30,11 @@ Here i pick questions to solve
 - [DayOfTheWeek](src/JavaProblems/DayOfTheWeek.java)
 - [Main_Bank](src/JavaProblems/Main_Bank.java)
 - - [Account](src/JavaProblems/Account.java)
--  [Calculator](src/JavaProblems/calculator.java)
+- [Calculator](src/JavaProblems/calculator.java)
+- [Vehicle](src/JavaProblems/Vehicle.java)
+- - [Vehicle_subClass](src/JavaProblems/Vehicle_subClass.java)
+- - - [Car](src/JavaProblems/Car.java)
+- - - [Outlander](src/JavaProblems/Outlander.java)
 
 
 
