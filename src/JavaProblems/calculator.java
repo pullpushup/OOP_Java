@@ -9,9 +9,9 @@ public class calculator {
         int a = input.nextInt();
         int b = input.nextInt();
 
-        int c = a+b;
+        //int c = a+b;
 
-        System.out.println("Sum is : "+c);
+        System.out.println("Sum is : "+ (a+b));
 
     }
 }
