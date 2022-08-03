@@ -38,6 +38,9 @@ Here i pick questions to solve
 - - [Vehicle_subClass](src/JavaProblems/Vehicle_subClass.java)
 - - - [Car](src/JavaProblems/Car.java)
 - - - [Outlander](src/JavaProblems/Outlander.java)
+- [Patterns](src/JavaProblems/Patterns.java)
+- [ReverseString](src/JavaProblems/ReverseString.java)
+- 
 
 
 
