@@ -40,7 +40,8 @@ Here i pick questions to solve
 - - - [Outlander](src/JavaProblems/Outlander.java)
 - [Patterns](src/JavaProblems/Patterns.java)
 - [ReverseString](src/JavaProblems/ReverseString.java)
-- 
+- [Hash map](src/JavaProblems/Hash_map.java)
+- [Hash map advanced](src/JavaProblems/Hash_map_advanced.java)
 
 
 
