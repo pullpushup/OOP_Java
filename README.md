@@ -42,6 +42,7 @@ Here i pick questions to solve
 - [ReverseString](src/JavaProblems/ReverseString.java)
 - [Hash map](src/JavaProblems/Hash_map.java)
 - [Hash map advanced](src/JavaProblems/Hash_map_advanced.java)
+- [ArrayReverse](src/JavaProblems/ArrayReverse.java)
 
 
 
