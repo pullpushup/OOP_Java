@@ -43,6 +43,7 @@ Here i pick questions to solve
 - [Hash map](src/JavaProblems/Hash_map.java)
 - [Hash map advanced](src/JavaProblems/Hash_map_advanced.java)
 - [ArrayReverse](src/JavaProblems/ArrayReverse.java)
+- [ArrayList](src/JavaProblems/ArrayList.java)
 
 
 
