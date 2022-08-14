@@ -75,6 +75,21 @@ public class ArrayList {
         }
     }
     private static void removeContact(){
+        System.out.println("Enter existing contact name: ");
+        String name = scanner.nextLine();
+        ArrayListContact existingContactRecord = mobilePhone.queryContact(name);
+        if(existingContactRecord == null){
+            System.out.println("Contact not found");
+            return;
+        }
+        if (mobilePhone.removeContact(existingContactRecord)){
+            System.out.println("Successfully deleted");
+        }else{
+            System.out.println("Error deleting contact");
+        }
+    }
+
+    private static void queryContact(){
             System.out.println("Enter existing  contact name: ");
             String name = scanner.nextLine();
             ArrayListContact existingContactRecord = mobilePhone.queryContact(name);
@@ -82,18 +97,14 @@ public class ArrayList {
                 System.out.println("Contact not found.");
                 return;
             }
-        System.out.println("Enter new contact name: ");
-        String newName = scanner.nextLine();
-        System.out.println("Enter new contact phone number: ");
-        String newNumber = scanner.nextLine();
-        ArrayListContact newContact = ArrayListContact.createContact(newName,newNumber);
-        if (mobilePhone.removeContact(existingContactRecord)){
-            System.out.println("Successfully deleted");
-        } else {
-            System.out.println("Error updating record.");
-        }
+        System.out.println("Name: "+existingContactRecord.getName()+" phone number is "+ existingContactRecord.getPhoneNumber());
+
 
     }
+//    private static void removeContact(){
+//
+//    }
+
 
     private static void startPhone(){
         System.out.println("Starting phone....");
