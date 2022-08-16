@@ -1,10 +1,9 @@
 ## OOP_Java
-
-I decide to save my JAVA progress here In this Repository, 
-I will be committing my progress to what I learn and what I am learning
+In this Repository, I'm a commit important questions which, will be practicing for my [1Z0-808](https://education.oracle.com/oracle-certified-associate-java-se-8-programmer/trackp_333) 
 
 
-### Topic i cover
+
+### Main Java Topic
 
 
 - [Methods](src/methods.java)
@@ -24,7 +23,7 @@ I will be committing my progress to what I learn and what I am learning
 
 
 ### Java Problems solving questions
-Here i pick questions to solve
+Here i pick questions to solve These questions i founded in udemy course and from 3rd party websites and some from friends
 
 - [KilometerToMiles](src/JavaProblems/KilometerToMiles.java)
 - [MegaBytesConverter](src/JavaProblems/MegaBytesConverter.java)
@@ -44,6 +43,10 @@ Here i pick questions to solve
 - [Hash map advanced](src/JavaProblems/Hash_map_advanced.java)
 - [ArrayReverse](src/JavaProblems/ArrayReverse.java)
 - [ArrayList](src/JavaProblems/ArrayList.java)
+
+
+### Mock Test Questions
+These are questions which i felt might be important
 
 
 
