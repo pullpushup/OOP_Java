@@ -1,9 +1,9 @@
-## OOP_Java
+# OOP_Java
 In this Repository, I'm a commit important questions which, will be practicing for my [1Z0-808](https://education.oracle.com/oracle-certified-associate-java-se-8-programmer/trackp_333) 
 
 
 
-### Main Java Topic
+## Main Java Topic
 
 
 - [Methods](src/methods.java)
@@ -18,11 +18,12 @@ In this Repository, I'm a commit important questions which, will be practicing f
 - [Composition](src/OOPPart2/Composition.java)
 - [Encapsulation](src/OOPPart2/Encapsulation.java)
 - [Arrays](src/Arrays/MainArrays.java)
+- [Lambdas](src/OOPPart2/lambdas.java)
 
 
 
 
-### Java Problems solving questions
+## Java Problems solving questions
 Here i pick questions to solve These questions i founded in udemy course and from 3rd party websites and some from friends
 
 - [KilometerToMiles](src/JavaProblems/KilometerToMiles.java)
@@ -45,8 +46,17 @@ Here i pick questions to solve These questions i founded in udemy course and fro
 - [ArrayList](src/JavaProblems/ArrayList.java)
 
 
-### Mock Test Questions
-These are questions which i felt might be important
+## Mock Test Questions Paper No.1
+These are questions which I felt might be important
+
+### Java Basics
+#### [Question No. 1](src/MockTest1/Q1.java)
+<p>For the class Q1, which option if used to replaced /* INSERT */, will resolve all the compilation errors?</p>
+
+#### [Question No. 2](src/MockTest1/Q2.java)
+<p>Which of following Correctly defines class Printer?</p>
+
+
 
 
 
